@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18017" started-at="2020-06-21T20:52:03 CAT" finished-at="2020-06-21T20:52:21 CAT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18017" started-at="2020-06-21T20:52:03 CAT" finished-at="2020-06-21T20:52:21 CAT">
+      <class name="com.absa.usermanagement.tests.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.absa.usermanagement.tests.HomePageTest@33c7e1bb]" name="setUp" is-config="true" duration-ms="12865" started-at="2020-06-21T20:52:03 CAT" finished-at="2020-06-21T20:52:16 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="homePageTitleTest()[pri:1, instance:com.absa.usermanagement.tests.HomePageTest@33c7e1bb]" name="homePageTitleTest" duration-ms="21" started-at="2020-06-21T20:52:16 CAT" finished-at="2020-06-21T20:52:16 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTitleTest -->
+        <test-method status="PASS" signature="addUserDataTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.absa.usermanagement.tests.HomePageTest@33c7e1bb]" name="addUserDataTest" duration-ms="990" started-at="2020-06-21T20:52:16 CAT" data-provider="Data" finished-at="2020-06-21T20:52:17 CAT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FName1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[LName1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sale]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Pass1]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Company AAA]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[admin@mail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[82555]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addUserDataTest -->
+        <test-method status="PASS" signature="addUserDataTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.absa.usermanagement.tests.HomePageTest@33c7e1bb]" name="addUserDataTest" duration-ms="3150" started-at="2020-06-21T20:52:17 CAT" data-provider="Data" finished-at="2020-06-21T20:52:20 CAT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FName2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[LName2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[User2]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Pass2]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Company BBB]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Customer]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[customer@mail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[83444]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addUserDataTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.absa.usermanagement.tests.HomePageTest@33c7e1bb]" name="tearDown" is-config="true" duration-ms="734" started-at="2020-06-21T20:52:20 CAT" finished-at="2020-06-21T20:52:21 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.absa.usermanagement.tests.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
